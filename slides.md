@@ -10,8 +10,8 @@ class: middle, center
 # Kubernetes 101
 
 .cblock[
-Joe Beda<br>
-CTO, Heptio
+Guilhem Lettron<br>
+Lead SRE
 ]
 
 .image-credit[
@@ -19,11 +19,11 @@ CTO, Heptio
 ]
 
 ---
-
+layout: true
 class: column-slide
 background-image: url(photos/record.jpg)
 image-credit: [flickr photo](https://flickr.com/photos/mavadam/3241311268 "Turntable") shared by [VanDammeMaarten](https://flickr.com/people/mavadam) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
+---
 .column-container[.left-column[
 # Recap
 ## Containers
@@ -40,10 +40,6 @@ image-credit: [flickr photo](https://flickr.com/photos/mavadam/3241311268 "Turnt
 ]
 
 ---
-
-class: column-slide
-background-image: url(photos/record.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/mavadam/3241311268 "Turntable") shared by [VanDammeMaarten](https://flickr.com/people/mavadam) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
 
 .column-container[.left-column[
 # Recap
@@ -73,10 +69,6 @@ cgroups + namespaces = "lightweight virtualization"
 ]
 
 ---
-class: column-slide
-background-image: url(photos/record.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/mavadam/3241311268 "Turntable") shared by [VanDammeMaarten](https://flickr.com/people/mavadam) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
 .column-container[.left-column[
 # Recap
 ## User Experience
@@ -96,10 +88,6 @@ Containers == Docker?
 ]
 
 ---
-class: column-slide
-background-image: url(photos/record.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/mavadam/3241311268 "Turntable") shared by [VanDammeMaarten](https://flickr.com/people/mavadam) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
 .column-container[.left-column[
 # Recap
 ## Excitement
@@ -123,10 +111,6 @@ This list is in order
 ]
 
 ---
-class: column-slide
-background-image: url(photos/record.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/mavadam/3241311268 "Turntable") shared by [VanDammeMaarten](https://flickr.com/people/mavadam) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
 .column-container[.left-column[
 # Recap
 ## Gaps
@@ -155,10 +139,6 @@ Dev &rarr; Production
 ]
 
 ---
-class: column-slide
-background-image: url(photos/record.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/mavadam/3241311268 "Turntable") shared by [VanDammeMaarten](https://flickr.com/people/mavadam) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
 .column-container[.left-column[
 # Recap
 ## Micro-services?
@@ -179,10 +159,11 @@ Not what I'm talking about today.
 {{image-credit}}
 ]
 ---
+layout: true
 class: column-slide
 background-image: url(photos/ship-wheel.jpg)
 image-credit: [flickr photo](https://flickr.com/photos/leroy-freakwinter/3108057269 "Captain Jack Sparrow") shared by [Rick Galvan](https://flickr.com/people/leroy-freakwinter) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
+---
 .column-container[.left-column[
 # Kubernetes
 ## Defined
@@ -209,10 +190,6 @@ Key component in *logical infrastructure*
 {{image-credit}}
 ]
 ---
-class: column-slide
-background-image: url(photos/ship-wheel.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/leroy-freakwinter/3108057269 "Captain Jack Sparrow") shared by [Rick Galvan](https://flickr.com/people/leroy-freakwinter) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
 .column-container[.left-column[
 # Kubernetes
 ## Google Grown
@@ -231,10 +208,6 @@ Part of a larger set of tools that make up the internal Google platform.
 {{image-credit}}
 ]
 ---
-class: column-slide
-background-image: url(photos/ship-wheel.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/leroy-freakwinter/3108057269 "Captain Jack Sparrow") shared by [Rick Galvan](https://flickr.com/people/leroy-freakwinter) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
 .column-container[.left-column[
 # Kubernetes
 ## Open Source
@@ -262,10 +235,6 @@ Hosted by the Cloud Native Computing Foundation (CNCF)
 stats with git shortlog -sn --no-merges | wc
 
 ---
-class: column-slide
-background-image: url(photos/ship-wheel.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/leroy-freakwinter/3108057269 "Captain Jack Sparrow") shared by [Rick Galvan](https://flickr.com/people/leroy-freakwinter) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
 .column-container[.left-column[
 # Kubernetes
 ## Benefits
@@ -306,10 +275,11 @@ image-credit: [flickr photo](https://flickr.com/photos/seattlemunicipalarchives/
 {{image-credit}}
 ]
 ---
+layout: true
 class: column-slide
 background-image: url(photos/core-memory.jpg)
 image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 "Magnetic-core Memory") shared by [dvanzuijlekom](https://flickr.com/people/dvanzuijlekom) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
-
+---
 .column-container[.left-column[
 # Core Concepts
 ## Cluster
@@ -323,10 +293,6 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 {{image-credit}}
 ]
 ---
-class: column-slide
-background-image: url(photos/core-memory.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 "Magnetic-core Memory") shared by [dvanzuijlekom](https://flickr.com/people/dvanzuijlekom) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
-
 .column-container[.left-column[
 # Core Concepts
 ## Pod
@@ -340,10 +306,6 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 {{image-credit}}
 ]
 ---
-class: column-slide
-background-image: url(photos/core-memory.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 "Magnetic-core Memory") shared by [dvanzuijlekom](https://flickr.com/people/dvanzuijlekom) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
-
 .column-container[.left-column[
 # Core Concepts
 ## Labels
@@ -357,10 +319,6 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 {{image-credit}}
 ]
 ---
-class: column-slide
-background-image: url(photos/core-memory.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 "Magnetic-core Memory") shared by [dvanzuijlekom](https://flickr.com/people/dvanzuijlekom) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
-
 .column-container[.left-column[
 # Core Concepts
 ## ReplicaSet
@@ -375,10 +333,6 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 ]
 
 ---
-class: column-slide
-background-image: url(photos/core-memory.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 "Magnetic-core Memory") shared by [dvanzuijlekom](https://flickr.com/people/dvanzuijlekom) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
-
 .column-container[.left-column[
 # Core Concepts
 ## ReplicaSet
@@ -386,6 +340,7 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 .right-column[.center[
 <object type="image/svg+xml" data="diagrams/rc2.svg">
 </object>
+based on liveness (process, command, HTTP, TCP)
 ]]]
 
 .image-credit[
@@ -393,10 +348,6 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 ]
 
 ---
-class: column-slide
-background-image: url(photos/core-memory.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 "Magnetic-core Memory") shared by [dvanzuijlekom](https://flickr.com/people/dvanzuijlekom) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
-
 .column-container[.left-column[
 # Core Concepts
 ## Service
@@ -410,10 +361,6 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 {{image-credit}}
 ]
 ---
-class: column-slide
-background-image: url(photos/core-memory.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 "Magnetic-core Memory") shared by [dvanzuijlekom](https://flickr.com/people/dvanzuijlekom) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
-
 .column-container[.left-column[
 # Core Concepts
 ## Persistent Volumes
@@ -426,12 +373,27 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 .image-credit[
 {{image-credit}}
 ]
-
 ---
+.column-container[.left-column[
+# Mix Concept
+## Deployments
+]
+.right-column[
+* **Declarative version updates**
+  * Versioning
+  * Rollback
+  * Pause / Resume
+
+]]
+.image-credit[
+{{image-credit}}
+]
+---
+layout: true
 class: column-slide
 background-image: url(photos/road.jpg)
 image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We're on the Road to Nowhere") shared by [mdalmuld](https://flickr.com/people/mdalmuld) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
+---
 .column-container[.left-column[
 # So much more!
 ]
@@ -440,8 +402,6 @@ image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We'r
   * Isolated workspaces for users/projects
 * **Ingress**
   * L7 load balancing
-* **Deployments**
-  * Declarative version updates
 * **Jobs**
   * Run to completion
 * **Autoscaling**
@@ -455,9 +415,6 @@ image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We'r
 ]
 
 ---
-class: column-slide
-background-image: url(photos/road.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We're on the Road to Nowhere") shared by [mdalmuld](https://flickr.com/people/mdalmuld) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
 
 .column-container[.left-column[
 # So much more!
@@ -476,15 +433,14 @@ image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We'r
   * GCP, AWS, Azure, OpenStack, vSphere
 * **Network Policy**
   * Network ingress policy
+* **Cluster Federation**
+  * _Ubernetes_
 ]]
 
 .image-credit[
 {{image-credit}}
 ]
 ---
-class: column-slide
-background-image: url(photos/road.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We're on the Road to Nowhere") shared by [mdalmuld](https://flickr.com/people/mdalmuld) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
 
 .column-container[.left-column[
 # Ecosystem
@@ -495,7 +451,7 @@ image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We'r
 * **Operators**
   * Automatic management of systems via API
   * Integrates using k8s extensions
-  * etcd, Prometheus, elasticsearch, memcahced, mongodb, rook, etc.
+  * etcd, Prometheus, elasticsearch, memcached, mongodb, rook, etc.
 * **Authentication Providers**
   * Extended via webhook.  OpenID Connect, OAuth 2, LDAP, SAML, etc.
   * Already implemented on GKE and GCE.
@@ -508,13 +464,183 @@ image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We'r
 {{image-credit}}
 ]
 ---
+layout: true
+class: column-slide
+background-image: url(photos/sandbox.jpg)
+image-credit: [flickr photo](https://www.flickr.com/photos/billburris/1300702744 "Sandbox") shared by [billburris](https://flickr.com/people/billburris) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
+---
+.column-container[.left-column[
+# How To Dev?
+## Minikube
+]
+.right-column[
+Run Kubernetes locally
+
+Use (docker) libmachine.
+Works on:
+* Linux (virtualbox, KVM)
+* OSX (xhyve, VirtualBox, VMware™)
+* Windows (VirtualBox, Hyper-V)
+
+```sh
+$ minikube start
+[...]
+Kubectl is now configured to use the cluster.
+
+$ kubectl run hello-minikube \
+  --image=gcr.io/google_containers/echoserver:1.4 \
+  --port=8080
+deployment "hello-minikube" created
+$ kubectl expose deployment hello-minikube --type=NodePort
+service "hello-minikube" exposed
+
+$ curl $(minikube service hello-minikube --url)
+CLIENT VALUES:
+client_address=192.168.99.1
+command=GET
+real path=/
+[...]
+```
+]]
+
+.image-credit[
+{{image-credit}}
+]
+---
+.column-container[.left-column[
+# How To Dev?
+## Minikube
+]
+.right-column[
+* addons:
+  * addon-manager
+  * dashboard
+  * coredns
+  * ingress
+  * registry-creds
+  * default-storageclass
+  * kube-dns
+  * heapster
+  * registry
+* +
+  * EFK
+]]
+
+.image-credit[
+{{image-credit}}
+]
+---
+.column-container[.left-column[
+# How To Dev?
+## Deploy
+]
+.right-column[
+*Addon registry*
+```sh
+$ minikube addons enable registry
+```
+```sh
+POD=$(kubectl get pods --namespace kube-system -l kubernetes.io/minikube-addons=registry -o template --template '{{range .items}}{{.metadata.name}} {{.status.phase}}{{"\n"}}{{end}}' | grep Running | head -1 | cut -f1 -d' ')
+$ kubectl port-forward --namespace kube-system $POD 5000:5000 &
+```
+]]
+---
+layout: true
+class: column-slide
+background-image: url(photos/code.jpg)
+image-credit: [flickr photo](https://flickr.com/photos/ruiwen/3260095534 "code.close()") shared by [ruiwen](https://flickr.com/people/ruiwen) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
+---
+.column-container[.left-column[
+# How To Dev?
+## Deploy
+]
+.right-column[
+```sh
+$ docker build -t localhost:5000/myimage .
+$ docker push localhost:5000/myimage
+```
+]]
+
+.image-credit[
+{{image-credit}}
+]
+---
+.column-container[.left-column[
+# How To Dev?
+## [draft](https://draft.sh/)
+]
+.right-column[
+* `draft create` to containerize your app based on Draft packs.
+* `draft up` to deploy your application to a Kubernetes dev  sandbox, accessible via a public URL.
+* Use a local editor to modify the application, with changes  deployed to Kubernetes in seconds.
+
+* built-in: .NET, GO, NODE, PHP, JAVA (Maven, Gradle), PYTHON & RUBY.
+]]
+
+.image-credit[
+{{image-credit}}
+]
+---
+.column-container[.left-column[
+# How To Dev?
+## [telepresence](https://www.telepresence.io)
+]
+.right-column[
+Proxy to your kubernetes cluster (minikube, GKE, etc)
+
+```sh
+$ telepresence -m inject-tcp -n test --run-shell
+```
+```sh
+$ telepresence --swap-deployment qotm --docker-run \
+  --rm -it -v $(pwd):/service qotm-dev:latest
+```
+]]
+
+.image-credit[
+{{image-credit}}
+]
+---
+.column-container[.left-column[
+# How To Dev?
+## Kompose
+]
+.right-column[
+_docker-compose_ → _kubernetes_
+```sh
+$ kompose convert -f docker-compose.yaml
+INFO Kubernetes file "frontend-service.yaml" created         
+INFO Kubernetes file "redis-master-service.yaml" created     
+INFO Kubernetes file "redis-slave-service.yaml" created      
+INFO Kubernetes file "frontend-deployment.yaml" created      
+INFO Kubernetes file "redis-master-deployment.yaml" created  
+INFO Kubernetes file "redis-slave-deployment.yaml" created
+```
+]]
+
+.image-credit[
+{{image-credit}}
+]
+---
+background-image: url(photos/play.jpg)
+image-credit: [flickr photo](https://www.flickr.com/photos/iyoupapa/2944718148 "Play thing") shared by [iyoupapa](https://flickr.com/people/iyoupapa) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
+.column-container[.left-column[
+# Let's play!
+]
+.right-column[
+.center[
+**[http://play-with-k8s.com/](http://play-with-k8s.com/)**
+]]]
+.image-credit[
+{{image-credit}}
+]
+---
 class: middle, left
 # Thank you!
 
 .cblock[
-Joe Beda<br>
-[@jbeda](https://twitter.com/jbeda)<br>
-https://www.heptio.com<br>
+Guilhem Lettron<br>
+github: [@guilhem](https://github.com/jbeda)<br>
 ]
 
 .ccblock[
