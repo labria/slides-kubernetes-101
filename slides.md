@@ -292,6 +292,32 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 .image-credit[
 {{image-credit}}
 ]
+
+---
+.column-container[.left-column[
+# Core Concepts
+## Networking
+]
+.right-column[
+**Network overlay**
+* POD to POD
+* Optionnal Policy / Security
+* NO default implementation
+
+Technologies:
+* flannel
+* weave
+* calico
+* contiv
+* nuage
+* kube-router
+* ...
+]]
+
+.image-credit[
+{{image-credit}}
+]
+
 ---
 .column-container[.left-column[
 # Core Concepts
@@ -431,8 +457,6 @@ image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We'r
   * K8s publishes signals that allow external services to scale the cluster automatically.
 * **Cloud Provider Integration**
   * GCP, AWS, Azure, OpenStack, vSphere
-* **Network Policy**
-  * Network ingress policy
 * **Cluster Federation**
   * _Ubernetes_
 ]]
@@ -463,6 +487,29 @@ image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We'r
 .image-credit[
 {{image-credit}}
 ]
+
+---
+
+.column-container[.left-column[
+# How-to Install?
+]
+.right-column[
+* **Automagic**
+  * GKE
+  * Azure Container Service
+* **Tooling**
+  * `kops` for AWS
+  * `kubeadm`
+* **Framework**
+  * kubespray (ansible)
+* **The Hard Way**
+  * matchbox (PXE)
+]]
+
+.image-credit[
+{{image-credit}}
+]
+
 ---
 layout: true
 class: column-slide
@@ -470,7 +517,7 @@ background-image: url(photos/sandbox.jpg)
 image-credit: [flickr photo](https://www.flickr.com/photos/billburris/1300702744 "Sandbox") shared by [billburris](https://flickr.com/people/billburris) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
 ---
 .column-container[.left-column[
-# How To Dev?
+# How-to Dev?
 ## Minikube
 ]
 .right-column[
@@ -508,7 +555,7 @@ real path=/
 ]
 ---
 .column-container[.left-column[
-# How To Dev?
+# How-to Dev?
 ## Minikube
 ]
 .right-column[
@@ -531,7 +578,7 @@ real path=/
 ]
 ---
 .column-container[.left-column[
-# How To Dev?
+# How-to Dev?
 ## Deploy
 ]
 .right-column[
@@ -551,7 +598,7 @@ background-image: url(photos/code.jpg)
 image-credit: [flickr photo](https://flickr.com/photos/ruiwen/3260095534 "code.close()") shared by [ruiwen](https://flickr.com/people/ruiwen) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
 ---
 .column-container[.left-column[
-# How To Dev?
+# How-to Dev?
 ## Deploy
 ]
 .right-column[
@@ -566,7 +613,7 @@ $ docker push localhost:5000/myimage
 ]
 ---
 .column-container[.left-column[
-# How To Dev?
+# How-to Dev?
 ## [draft](https://draft.sh/)
 ]
 .right-column[
@@ -582,7 +629,7 @@ $ docker push localhost:5000/myimage
 ]
 ---
 .column-container[.left-column[
-# How To Dev?
+# How-to Dev?
 ## [telepresence](https://www.telepresence.io)
 ]
 .right-column[
@@ -602,7 +649,7 @@ $ telepresence --swap-deployment qotm --docker-run \
 ]
 ---
 .column-container[.left-column[
-# How To Dev?
+# How-to Dev?
 ## Kompose
 ]
 .right-column[
