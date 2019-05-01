@@ -10,8 +10,8 @@ class: middle, center
 # Kubernetes 101
 
 .cblock[
-Guilhem Lettron<br>
-Lead SRE
+Dimitri Krassovski<br>
+Wix System
 ]
 
 .image-credit[
@@ -23,6 +23,23 @@ layout: true
 class: column-slide
 background-image: url(photos/record.jpg)
 image-credit: [flickr photo](https://flickr.com/photos/mavadam/3241311268 "Turntable") shared by [VanDammeMaarten](https://flickr.com/people/mavadam) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
+
+---
+.column-container[.left-column[
+# Recap
+## Bored?
+]
+.right-column[
+.center[
+# "#kubernetes-support"
+]
+]
+]
+
+.image-credit[
+{{image-credit}}
+]
+
 ---
 .column-container[.left-column[
 # Recap
@@ -90,7 +107,7 @@ Containers == Docker?
 ---
 .column-container[.left-column[
 # Recap
-## Excitement
+## Benefits
 
 ]
 .right-column[
@@ -217,7 +234,7 @@ https://github.com/kubernetes/kubernetes
 
 *Very* active open source project
 
-23k stars, 1400+ contributors
+50k stars, 2000+ contributors
 
 Apache 2 licensed
 
@@ -252,29 +269,6 @@ Reduce cost to run many things in production.  Enables new ways of building appl
 ]
 
 ---
-class: column-slide
-background-image: url(photos/space-needle.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/seattlemunicipalarchives/6175308389 "Space Needle under construction, 1961") shared by [Seattle Municipal Archives](https://flickr.com/people/seattlemunicipalarchives) under a [Creative Commons ( BY ) license](https://creativecommons.org/licenses/by/2.0/)
-
-.column-container[.left-column[
-# Design Principles
-]
-.right-column[
-* declarative > imperative
-* control loops
-* simple > complex
-* modularity
-* legacy compatible
-* network-centric
-* labels > hierarchy
-* cattle > pets
-* open > closed
-]]
-
-.image-credit[
-{{image-credit}}
-]
----
 layout: true
 class: column-slide
 background-image: url(photos/core-memory.jpg)
@@ -301,10 +295,11 @@ image-credit: [flickr photo](https://flickr.com/photos/dvanzuijlekom/6952363784 
 .right-column[
 **Network overlay**
 * POD to POD
-* Optionnal Policy / Security
+* Optional Policy / Security
 * NO default implementation
 
 Technologies:
+* amazon-vpc-cni-k8s
 * flannel
 * weave
 * calico
@@ -389,6 +384,75 @@ based on liveness (process, command, HTTP, TCP)
 ---
 .column-container[.left-column[
 # Core Concepts
+## Deployment
+]
+.right-column[.center[
+<object type="image/svg+xml" data="diagrams/roll1.svg">
+</object>
+]]]
+
+.image-credit[
+{{image-credit}}
+]
+---
+.column-container[.left-column[
+# Core Concepts
+## Rollout
+]
+.right-column[.center[
+<object type="image/svg+xml" data="diagrams/roll2.svg">
+</object>
+]]]
+
+.image-credit[
+{{image-credit}}
+]
+
+---
+.column-container[.left-column[
+# Core Concepts
+## Rollout
+]
+.right-column[.center[
+<object type="image/svg+xml" data="diagrams/roll3.svg">
+</object>
+]]]
+
+.image-credit[
+{{image-credit}}
+]
+
+---
+.column-container[.left-column[
+# Core Concepts
+## Rollout
+]
+.right-column[.center[
+<object type="image/svg+xml" data="diagrams/roll4.svg">
+</object>
+]]]
+
+.image-credit[
+{{image-credit}}
+]
+---
+.column-container[.left-column[
+# Core Concepts
+## Rollout
+]
+.right-column[.center[
+<object type="image/svg+xml" data="diagrams/roll5.svg">
+</object>
+]]]
+
+.image-credit[
+{{image-credit}}
+]
+
+
+---
+.column-container[.left-column[
+# Core Concepts
 ## Persistent Volumes
 ]
 .right-column[.center[
@@ -399,21 +463,7 @@ based on liveness (process, command, HTTP, TCP)
 .image-credit[
 {{image-credit}}
 ]
----
-.column-container[.left-column[
-# Mix Concept
-## Deployments
-]
-.right-column[
-* **Declarative version updates**
-  * Versioning
-  * Rollback
-  * Pause / Resume
 
-]]
-.image-credit[
-{{image-credit}}
-]
 ---
 layout: true
 class: column-slide
@@ -448,68 +498,19 @@ image-credit: [flickr photo](https://flickr.com/photos/mdalmuld/9559878695 "We'r
 .right-column[
 * **Role Based Access Control (RBAC)**
   * Control what users have access to what objects
-* **Multiple Schedulers**
 * **Flexible Scheduling Constraints**
   * Affinity, anti-affinity, taints, tolerations
 * **StatefulSet**
   * Support for long term stateful distributed systems
 * **Automatic Cluster Scaling**
-  * K8s publishes signals that allow external services to scale the cluster automatically.
+  * based on resource usage
 * **Cloud Provider Integration**
   * GCP, AWS, Azure, OpenStack, vSphere
-* **Cluster Federation**
-  * _Ubernetes_
 ]]
 
 .image-credit[
 {{image-credit}}
 ]
----
-
-.column-container[.left-column[
-# Ecosystem
-]
-.right-column[
-* **Platforms**
-  * OpenStack, Deis Workflow
-* **Operators**
-  * Automatic management of systems via API
-  * Integrates using k8s extensions
-  * etcd, Prometheus, elasticsearch, memcached, mongodb, rook, etc.
-* **Authentication Providers**
-  * Extended via webhook.  OpenID Connect, OAuth 2, LDAP, SAML, etc.
-  * Already implemented on GKE and GCE.
-* **Helm: Package Manager**
-  * Super easy to install applications and systems.
-* **Extended Network Policy**
-]]
-
-.image-credit[
-{{image-credit}}
-]
-
----
-
-.column-container[.left-column[
-# How-to Install?
-]
-.right-column[
-* **Automagic**
-  * GKE
-  * Azure Container Service
-* **Tooling**
-  * `kops` for AWS
-  * `kubeadm`
-* **Framework**
-  * kubespray (ansible)
-* **The Hard Way**
-  * matchbox (PXE)
-]]
-
-.image-credit[
-{{image-credit}}
-]
-
 ---
 layout: true
 class: column-slide
@@ -556,128 +557,14 @@ real path=/
 ---
 .column-container[.left-column[
 # How-to Dev?
-## Minikube
+## GUI/kubectl
 ]
 .right-column[
-* addons:
-  * addon-manager
-  * dashboard
-  * coredns
-  * ingress
-  * registry-creds
-  * default-storageclass
-  * kube-dns
-  * heapster
-  * registry
-* +
-  * EFK
+https://kuberos.42.sphera.tools/
+
+https://cp.tbd.sphera.tools/
 ]]
 
-.image-credit[
-{{image-credit}}
-]
----
-.column-container[.left-column[
-# How-to Dev?
-## Deploy
-]
-.right-column[
-*Addon registry*
-```sh
-$ minikube addons enable registry
-```
-```sh
-POD=$(kubectl get pods --namespace kube-system -l kubernetes.io/minikube-addons=registry -o template --template '{{range .items}}{{.metadata.name}} {{.status.phase}}{{"\n"}}{{end}}' | grep Running | head -1 | cut -f1 -d' ')
-$ kubectl port-forward --namespace kube-system $POD 5000:5000 &
-```
-]]
----
-layout: true
-class: column-slide
-background-image: url(photos/code.jpg)
-image-credit: [flickr photo](https://flickr.com/photos/ruiwen/3260095534 "code.close()") shared by [ruiwen](https://flickr.com/people/ruiwen) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
----
-.column-container[.left-column[
-# How-to Dev?
-## Deploy
-]
-.right-column[
-```sh
-$ docker build -t localhost:5000/myimage .
-$ docker push localhost:5000/myimage
-```
-]]
-
-.image-credit[
-{{image-credit}}
-]
----
-.column-container[.left-column[
-# How-to Dev?
-## [draft](https://draft.sh/)
-]
-.right-column[
-* `draft create` to containerize your app based on Draft packs.
-* `draft up` to deploy your application to a Kubernetes dev  sandbox, accessible via a public URL.
-* Use a local editor to modify the application, with changes  deployed to Kubernetes in seconds.
-
-* built-in: .NET, GO, NODE, PHP, JAVA (Maven, Gradle), PYTHON & RUBY.
-]]
-
-.image-credit[
-{{image-credit}}
-]
----
-.column-container[.left-column[
-# How-to Dev?
-## [telepresence](https://www.telepresence.io)
-]
-.right-column[
-Proxy to your kubernetes cluster (minikube, GKE, etc)
-
-```sh
-$ telepresence -m inject-tcp -n test --run-shell
-```
-```sh
-$ telepresence --swap-deployment qotm --docker-run \
-  --rm -it -v $(pwd):/service qotm-dev:latest
-```
-]]
-
-.image-credit[
-{{image-credit}}
-]
----
-.column-container[.left-column[
-# How-to Dev?
-## Kompose
-]
-.right-column[
-_docker-compose_ → _kubernetes_
-```sh
-$ kompose convert -f docker-compose.yaml
-INFO Kubernetes file "frontend-service.yaml" created         
-INFO Kubernetes file "redis-master-service.yaml" created     
-INFO Kubernetes file "redis-slave-service.yaml" created      
-INFO Kubernetes file "frontend-deployment.yaml" created      
-INFO Kubernetes file "redis-master-deployment.yaml" created  
-INFO Kubernetes file "redis-slave-deployment.yaml" created
-```
-]]
-
-.image-credit[
-{{image-credit}}
-]
----
-background-image: url(photos/play.jpg)
-image-credit: [flickr photo](https://www.flickr.com/photos/iyoupapa/2944718148 "Play thing") shared by [iyoupapa](https://flickr.com/people/iyoupapa) under a [Creative Commons ( BY-SA ) license](https://creativecommons.org/licenses/by-sa/2.0/)
-.column-container[.left-column[
-# Let's play!
-]
-.right-column[
-.center[
-**[http://play-with-k8s.com/](http://play-with-k8s.com/)**
-]]]
 .image-credit[
 {{image-credit}}
 ]
@@ -685,10 +572,6 @@ image-credit: [flickr photo](https://www.flickr.com/photos/iyoupapa/2944718148 "
 class: middle, left
 # Thank you!
 
-.cblock[
-Guilhem Lettron<br>
-github: [@guilhem](https://github.com/jbeda)<br>
-]
 
 .ccblock[
 [![Creative Commons License](img/cc-by.png)](http://creativecommons.org/licenses/by/4.0/)<br>

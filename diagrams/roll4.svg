@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 684.14 462.53"
+   version="1.1"
+   id="svg1070"
+   sodipodi:docname="roll4.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata1074">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>rc</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1006"
+     id="namedview1072"
+     showgrid="false"
+     inkscape:zoom="1.2107941"
+     inkscape:cx="240.87842"
+     inkscape:cy="236.2163"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1030" />
+  <defs
+     id="defs740">
+    <style
+       id="style738">
+      @import url(&quot;../fonts/fonts.css&quot;);
+      .a, .i, .j, .k {
+        fill: none;
+        stroke: #f2f2f2;
+        stroke-miterlimit: 10;
+        stroke-width: 1.42px;
+      }
+
+      .b, .d {
+        font-size: 22.68px;
+      }
+
+      .b, .d, .e, .f {
+        fill: #f2f2f2;
+      }
+
+      .b, .d, .f {
+        font-family: Coda-Regular, Coda;
+      }
+
+      .b {
+        letter-spacing: -0.01em;
+      }
+
+      .c {
+        letter-spacing: 0em;
+      }
+
+      .f {
+        font-size: 14.17px;
+      }
+
+      .g {
+        letter-spacing: 0em;
+      }
+
+      .h {
+        letter-spacing: -0.01em;
+      }
+
+      .i {
+        stroke-dasharray: 2.77 2.77;
+      }
+
+      .j {
+        stroke-dasharray: 2.83 2.83;
+      }
+
+      .k {
+        stroke-dasharray: 2.68 2.68;
+      }
+    </style>
+  </defs>
+  <title
+     id="title742">rc</title>
+  <g
+     id="g1000">
+    <g
+       id="g870">
+      <rect
+         class="a"
+         x="385.44"
+         y="0.71"
+         width="297.97"
+         height="212.37"
+         id="rect744" />
+      <text
+         class="b"
+         id="text748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.68000031px;font-family:Coda-Regular, Coda;-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.01em;writing-mode:lr;text-anchor:start;fill:#f2f2f2;"
+         x="481.25186"
+         y="33.014004">
+        <tspan
+           sodipodi:role="line"
+           id="tspan281">Replicaset 1</tspan>
+      </text>
+      <g
+         id="g844" />
+    </g>
+    <g
+       id="g998">
+      <rect
+         class="a"
+         x="385.46"
+         y="249.45"
+         width="297.97"
+         height="212.37"
+         id="rect872" />
+      <text
+         class="b"
+         id="text876"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.68000031px;font-family:Coda-Regular, Coda;-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.01em;writing-mode:lr;text-anchor:start;fill:#f2f2f2;"
+         x="471.61298"
+         y="282.40884">
+        <tspan
+           sodipodi:role="line"
+           id="tspan283">Replicaset 2</tspan>
+      </text>
+      <g
+         id="g996">
+        <g
+           id="g982">
+          <text
+             class="f"
+             transform="translate(580.09 375.78)"
+             id="text978"
+             style="-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-family:Coda-Regular, Coda;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.17066701px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+            <tspan
+               sodipodi:role="line"
+               id="tspan271">version = 2</tspan>
+          </text>
+          <path
+             class="a"
+             d="M823.11,653h-91V629h91c.68.41,11,12,11,12S823.88,652.48,823.11,653Z"
+             transform="translate(-158.08 -268.93)"
+             id="path980" />
+        </g>
+        <g
+           id="g988">
+          <text
+             class="f"
+             transform="translate(580.09 407.22)"
+             id="text984">type = FE</text>
+          <path
+             class="a"
+             d="M823.11,684.39h-91V660.45h91c.68.41,11,12,11,12S823.88,683.92,823.11,684.39Z"
+             transform="translate(-158.08 -268.93)"
+             id="path986" />
+        </g>
+        <g
+           id="g994">
+          <text
+             class="f"
+             transform="translate(580.09 438.66)"
+             id="text990">app = hello</text>
+          <path
+             class="a"
+             d="M823.11,715.83h-91V691.89h91c.68.41,11,12,11,12S823.88,715.36,823.11,715.83Z"
+             transform="translate(-158.08 -268.93)"
+             id="path992" />
+        </g>
+        <g
+           id="g144"
+           transform="translate(-412.30577,-110.37648)">
+          <text
+             id="text140"
+             transform="translate(580.09,375.78)"
+             class="f"
+             style="font-size:14.17066701px;font-family:Coda-Regular, Coda;fill:#f2f2f2;-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+            <tspan
+               sodipodi:role="line"
+               id="tspan275">version = 2</tspan>
+          </text>
+          <path
+             id="path142"
+             d="m 823.11,653 h -91 v -24 h 91 c 0.68,0.41 11,12 11,12 0,0 -10.23,11.48 -11,12 z"
+             class="a"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#f2f2f2;stroke-width:1.41999996px;stroke-miterlimit:10"
+             inkscape:transform-center-x="-83.39185"
+             inkscape:transform-center-y="-58.863118"
+             transform="translate(-158.08,-268.93)" />
+        </g>
+        <g
+           id="g150"
+           transform="translate(-412.30577,-110.37648)"
+           inkscape:transform-center-x="-83.39185"
+           inkscape:transform-center-y="-27.443118">
+          <text
+             id="text146"
+             transform="translate(580.09,407.22)"
+             class="f"
+             style="font-size:14.17000008px;font-family:Coda-Regular, Coda;fill:#f2f2f2">type = FE</text>
+          <path
+             id="path148"
+             transform="translate(-158.08,-268.93)"
+             d="m 823.11,684.39 h -91 v -23.94 h 91 c 0.68,0.41 11,12 11,12 0,0 -10.23,11.47 -11,11.94 z"
+             class="a"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#f2f2f2;stroke-width:1.41999996px;stroke-miterlimit:10" />
+        </g>
+        <g
+           id="g156"
+           transform="translate(-307.18532,-140.74461)"
+           inkscape:transform-center-x="-83.39185"
+           inkscape:transform-center-y="3.9968819">
+          <text
+             id="text152"
+             class="f"
+             style="font-size:14.17000008px;font-family:Coda-Regular, Coda;fill:#f2f2f2"
+             x="474.96954"
+             y="469.02814">app = hello</text>
+          <path
+             id="path154"
+             d="m 559.90955,477.26813 h -91 v -23.94 h 91 c 0.68,0.41 11,12 11,12 0,0 -10.23,11.47 -11,11.94 z"
+             class="a"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#f2f2f2;stroke-width:1.41999996px;stroke-miterlimit:10" />
+        </g>
+        <g
+           id="g168"
+           transform="translate(-4.0880176,-255.7931)">
+          <text
+             id="text164"
+             transform="translate(580.09,375.78)"
+             class="f"
+             style="font-size:14.17066701px;font-family:Coda-Regular, Coda;fill:#f2f2f2;-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+            <tspan
+               sodipodi:role="line"
+               id="tspan273">version = 1</tspan>
+          </text>
+          <path
+             id="path166"
+             transform="translate(-158.08,-268.93)"
+             d="m 823.11,653 h -91 v -24 h 91 c 0.68,0.41 11,12 11,12 0,0 -10.23,11.48 -11,12 z"
+             class="a"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#f2f2f2;stroke-width:1.41999996px;stroke-miterlimit:10" />
+        </g>
+        <g
+           id="g174"
+           transform="translate(-4.0880176,-255.7931)">
+          <text
+             id="text170"
+             transform="translate(580.09,407.22)"
+             class="f"
+             style="font-size:14.17000008px;font-family:Coda-Regular, Coda;fill:#f2f2f2">type = FE</text>
+          <path
+             id="path172"
+             transform="translate(-158.08,-268.93)"
+             d="m 823.11,684.39 h -91 v -23.94 h 91 c 0.68,0.41 11,12 11,12 0,0 -10.23,11.47 -11,11.94 z"
+             class="a"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#f2f2f2;stroke-width:1.41999996px;stroke-miterlimit:10" />
+        </g>
+        <g
+           id="g180"
+           transform="translate(-4.0880176,-255.7931)">
+          <text
+             id="text176"
+             transform="translate(580.09,438.66)"
+             class="f"
+             style="font-size:14.17000008px;font-family:Coda-Regular, Coda;fill:#f2f2f2">app = hello</text>
+          <path
+             id="path178"
+             transform="translate(-158.08,-268.93)"
+             d="m 823.11,715.83 h -91 v -23.94 h 91 c 0.68,0.41 11,12 11,12 0,0 -10.23,11.47 -11,11.94 z"
+             class="a"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#f2f2f2;stroke-width:1.41999996px;stroke-miterlimit:10" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g1030">
+    <rect
+       class="a"
+       x="0.71"
+       y="85.56"
+       width="291.4"
+       height="291.4"
+       id="rect1002" />
+    <text
+       class="d"
+       transform="translate(87.27 121.14)"
+       id="text1004"
+       style="-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-family:Coda-Regular, Coda;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:22.68000031px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+      <tspan
+         sodipodi:role="line"
+         id="tspan128">Deployment</tspan>
+    </text>
+    <text
+       class="d"
+       transform="translate(34.16 167.66)"
+       id="text1008"
+       style="-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-family:Coda-Regular, Coda;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:22.68000031px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+      <tspan
+         sodipodi:role="line"
+         id="tspan277">Replicas: 3</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan279"></tspan>
+    </text>
+    <g
+       id="g1028">
+      <path
+         class="e"
+         d="M237.23,609.8a38.24,38.24,0,0,1-18-73.95l5.34,15.28a22,22,0,1,0,28.08,13.53,20.32,20.32,0,0,0-7.43-9.84l9.52-13.09a36.71,36.71,0,0,1,13.19,17.59A38.23,38.23,0,0,1,244.48,608,38.65,38.65,0,0,1,237.23,609.8Z"
+         transform="translate(-158.08 -268.93)"
+         id="path1024" />
+      <polygon
+         class="e"
+         points="88.51 297.81 71.36 270.47 103.62 269.28 88.51 297.81"
+         id="polygon1026" />
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.68000031px;font-family:Coda-Regular, Coda;-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#f2f2f2;"
+       id="text186"
+       class="d"
+       x="405.00159"
+       y="70.715584">
+      <tspan
+         sodipodi:role="line"
+         id="tspan323">Replicas: 1</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan325"></tspan>
+    </text>
+    <text
+       y="334.10071"
+       x="410.84161"
+       class="d"
+       id="text196"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.68000031px;font-family:Coda-Regular, Coda;-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#f2f2f2;">
+      <tspan
+         sodipodi:role="line"
+         id="tspan327">Replicas: 2</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan329"></tspan>
+    </text>
+  </g>
+  <g
+     id="g1068">
+    <g
+       id="g1038">
+      <line
+         class="a"
+         x1="292.11"
+         y1="231.26"
+         x2="293.53"
+         y2="231.26"
+         id="line1032" />
+      <line
+         class="i"
+         x1="296.3"
+         y1="231.26"
+         x2="322.64"
+         y2="231.26"
+         id="line1034" />
+      <line
+         class="a"
+         x1="324.03"
+         y1="231.26"
+         x2="325.44"
+         y2="231.26"
+         id="line1036" />
+    </g>
+    <g
+       id="g1046">
+      <line
+         class="a"
+         x1="325.44"
+         y1="106.9"
+         x2="325.44"
+         y2="108.31"
+         id="line1040" />
+      <line
+         class="j"
+         x1="325.44"
+         y1="111.14"
+         x2="325.44"
+         y2="352.8"
+         id="line1042" />
+      <line
+         class="a"
+         x1="325.44"
+         y1="354.22"
+         x2="325.44"
+         y2="355.63"
+         id="line1044" />
+    </g>
+    <g
+       id="g1056">
+      <line
+         class="a"
+         x1="325.44"
+         y1="355.63"
+         x2="326.86"
+         y2="355.63"
+         id="line1048" />
+      <line
+         class="k"
+         x1="329.54"
+         y1="355.63"
+         x2="371.13"
+         y2="355.63"
+         id="line1050" />
+      <line
+         class="a"
+         x1="372.47"
+         y1="355.63"
+         x2="373.89"
+         y2="355.63"
+         id="line1052" />
+      <path
+         class="e"
+         d="M529.43,624.57l-3.11-5.11.17-.12,8.33,3.31,8.7,1.91-8.7,1.91-8.33,3.31-.17-.09Z"
+         transform="translate(-158.08 -268.93)"
+         id="path1054" />
+    </g>
+    <g
+       id="g1066">
+      <line
+         class="a"
+         x1="325.44"
+         y1="106.9"
+         x2="326.86"
+         y2="106.9"
+         id="line1058" />
+      <line
+         class="k"
+         x1="329.54"
+         y1="106.9"
+         x2="371.13"
+         y2="106.9"
+         id="line1060" />
+      <line
+         class="a"
+         x1="372.47"
+         y1="106.9"
+         x2="373.89"
+         y2="106.9"
+         id="line1062" />
+      <path
+         class="e"
+         d="M529.43,375.83l-3.11-5.11.17-.12,8.33,3.31,8.7,1.91-8.7,1.91-8.33,3.31-.17-.09Z"
+         transform="translate(-158.08 -268.93)"
+         id="path1064" />
+    </g>
+  </g>
+</svg>

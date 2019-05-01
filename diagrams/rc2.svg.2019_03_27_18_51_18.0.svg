@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 684.14 462.53"
+   version="1.1"
+   id="svg4619"
+   sodipodi:docname="rc2.svg">
+  <metadata
+     id="metadata4623">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4621"
+     showgrid="false" />
+  <defs
+     id="defs4275">
+    <style
+       id="style4273">
+      @import url(&quot;../fonts/fonts.css&quot;);
+      .a, .h, .m, .p, .q, .r, .s {
+        fill: none;
+      }
+
+      .a, .p, .q, .r {
+        stroke: #f2f2f2;
+      }
+
+      .a, .h, .p, .q, .r, .s {
+        stroke-miterlimit: 10;
+      }
+
+      .a, .h, .p, .q, .r {
+        stroke-width: 1.42px;
+      }
+
+      .b, .d, .i, .j, .m {
+        font-size: 22.68px;
+      }
+
+      .b, .d, .e, .f {
+        fill: #f2f2f2;
+      }
+
+      .b, .d, .f, .i, .j, .l, .m {
+        font-family: Coda-Regular, Coda;
+      }
+
+      .b, .i {
+        letter-spacing: -0.01em;
+      }
+
+      .c {
+        letter-spacing: 0em;
+      }
+
+      .f, .l {
+        font-size: 14.17px;
+      }
+
+      .g {
+        letter-spacing: 0em;
+      }
+
+      .h {
+        stroke: #b3b3b3;
+      }
+
+      .i, .j, .k, .l {
+        fill: #b3b3b3;
+      }
+
+      .n {
+        fill: red;
+      }
+
+      .o {
+        letter-spacing: -0.01em;
+      }
+
+      .p {
+        stroke-dasharray: 2.77 2.77;
+      }
+
+      .q {
+        stroke-dasharray: 2.83 2.83;
+      }
+
+      .r {
+        stroke-dasharray: 2.68 2.68;
+      }
+
+      .s {
+        stroke: red;
+        stroke-width: 8.5px;
+      }
+    </style>
+  </defs>
+  <title
+     id="title4277">rc2</title>
+  <g
+     id="g4535">
+    <g
+       id="g4405">
+      <rect
+         class="a"
+         x="385.44"
+         y="0.71"
+         width="297.97"
+         height="212.37"
+         id="rect4279" />
+      <text
+         class="b"
+         transform="translate(514.54 32.43)"
+         id="text4283">P<tspan
+   class="c"
+   x="13.73"
+   y="0"
+   id="tspan4281">od</tspan>
+</text>
+      <g
+         id="g4379">
+        <g
+           id="g4315">
+          <g
+             id="g4293">
+            <g
+               id="g4289">
+              <text
+                 class="d"
+                 transform="translate(526.92 74.33)"
+                 id="text4285">C</text>
+              <text
+                 class="d"
+                 transform="translate(541.57 81.88) scale(0.58)"
+                 id="text4287">3</text>
+            </g>
+            <rect
+               class="a"
+               x="520.64"
+               y="50"
+               width="34.46"
+               height="34.46"
+               id="rect4291" />
+          </g>
+          <g
+             id="g4303">
+            <g
+               id="g4299">
+              <text
+                 class="d"
+                 transform="translate(473.66 74.33)"
+                 id="text4295">C</text>
+              <text
+                 class="d"
+                 transform="translate(488.31 81.88) scale(0.58)"
+                 id="text4297">2</text>
+            </g>
+            <rect
+               class="a"
+               x="467.29"
+               y="50"
+               width="34.46"
+               height="34.46"
+               id="rect4301" />
+          </g>
+          <g
+             id="g4313">
+            <g
+               id="g4309">
+              <text
+                 class="d"
+                 transform="translate(421.95 74.33)"
+                 id="text4305">C</text>
+              <text
+                 class="d"
+                 transform="translate(436.6 81.88) scale(0.58)"
+                 id="text4307">1</text>
+            </g>
+            <rect
+               class="a"
+               x="413.93"
+               y="50"
+               width="34.46"
+               height="34.46"
+               id="rect4311" />
+          </g>
+        </g>
+        <g
+           id="g4353">
+          <g
+             id="g4333">
+            <g
+               id="g4325">
+              <ellipse
+                 class="a"
+                 cx="448.96"
+                 cy="148.14"
+                 rx="25"
+                 ry="11.82"
+                 id="ellipse4317" />
+              <path
+                 class="a"
+                 d="M712.18,292.11c0,6.53-11.19,11.82-25,11.82s-25-5.29-25-11.82"
+                 transform="translate(-238.22 -103.12)"
+                 id="path4319" />
+              <line
+                 class="a"
+                 x1="423.96"
+                 y1="189"
+                 x2="423.96"
+                 y2="148.14"
+                 id="line4321" />
+              <line
+                 class="a"
+                 x1="473.96"
+                 y1="189"
+                 x2="473.96"
+                 y2="148.14"
+                 id="line4323" />
+            </g>
+            <g
+               id="g4331">
+              <text
+                 class="d"
+                 transform="translate(440.63 184.94)"
+                 id="text4327">V</text>
+              <text
+                 class="d"
+                 transform="translate(454.22 192.49) scale(0.58)"
+                 id="text4329">1</text>
+            </g>
+          </g>
+          <g
+             id="g4351">
+            <g
+               id="g4339">
+              <text
+                 class="d"
+                 transform="translate(509.75 184.94)"
+                 id="text4335">V</text>
+              <text
+                 class="d"
+                 transform="translate(523.34 192.49) scale(0.58)"
+                 id="text4337">2</text>
+            </g>
+            <g
+               id="g4349">
+              <ellipse
+                 class="a"
+                 cx="520.08"
+                 cy="148.14"
+                 rx="25"
+                 ry="11.82"
+                 id="ellipse4341" />
+              <path
+                 class="a"
+                 d="M783.31,292.11c0,6.53-11.19,11.82-25,11.82s-25-5.29-25-11.82"
+                 transform="translate(-238.22 -103.12)"
+                 id="path4343" />
+              <line
+                 class="a"
+                 x1="495.08"
+                 y1="189"
+                 x2="495.08"
+                 y2="148.14"
+                 id="line4345" />
+              <line
+                 class="a"
+                 x1="545.08"
+                 y1="189"
+                 x2="545.08"
+                 y2="148.14"
+                 id="line4347" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g4359">
+          <line
+             class="a"
+             x1="431.16"
+             y1="84.46"
+             x2="437.55"
+             y2="124.9"
+             id="line4355" />
+          <path
+             class="e"
+             d="M675.38,225.5l4.56-3.86.14.15-2,8.74-.53,8.9-3.25-8.3-4.57-7.71.06-.19Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4357" />
+        </g>
+        <g
+           id="g4365">
+          <line
+             class="a"
+             x1="484.52"
+             y1="84.46"
+             x2="466.9"
+             y2="127.51"
+             id="line4361" />
+          <path
+             class="e"
+             d="M706.09,228.28l5.9-.94,0,.21L705.82,234l-5.07,7.33,1.52-8.78.09-9,.15-.13Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4363" />
+        </g>
+        <g
+           id="g4371">
+          <line
+             class="a"
+             x1="484.52"
+             y1="84.46"
+             x2="503.16"
+             y2="127.25"
+             id="line4367" />
+          <path
+             class="e"
+             d="M740.37,228l3.44-4.89.18.11.29,9L746,241l-5.23-7.21-6.36-6.31v-.19Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4369" />
+        </g>
+        <g
+           id="g4377">
+          <line
+             class="a"
+             x1="537.87"
+             y1="84.46"
+             x2="532.49"
+             y2="126.04"
+             id="line4373" />
+          <path
+             class="e"
+             d="M771,226.63l5.46-2.42.09.19-4.35,7.83-3,8.39-.78-8.88-2.21-8.68.11-.16Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4375" />
+        </g>
+      </g>
+      <g
+         id="g4403">
+        <g
+           id="g4389">
+          <text
+             class="f"
+             transform="translate(580.08 127.04)"
+             id="text4385">
+            <tspan
+               class="g"
+               id="tspan4381">v</tspan>
+            <tspan
+               x="6.93"
+               y="0"
+               id="tspan4383">ersion = 1.0</tspan>
+          </text>
+          <path
+             class="a"
+             d="M903.23,238.4h-91V214.45h91c.68.41,11,12,11,12S904,237.93,903.23,238.4Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4387" />
+        </g>
+        <g
+           id="g4395">
+          <text
+             class="f"
+             transform="translate(580.08 158.48)"
+             id="text4391">type = FE</text>
+          <path
+             class="a"
+             d="M903.23,269.84h-91V245.89h91c.68.41,11,12,11,12S904,269.37,903.23,269.84Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4393" />
+        </g>
+        <g
+           id="g4401">
+          <text
+             class="f"
+             transform="translate(580.08 189.92)"
+             id="text4397">app = hello</text>
+          <path
+             class="a"
+             d="M903.23,301.28h-91V277.33h91c.68.41,11,12,11,12S904,300.81,903.23,301.28Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4399" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4533">
+      <rect
+         class="h"
+         x="385.46"
+         y="249.45"
+         width="297.97"
+         height="212.37"
+         id="rect4407" />
+      <text
+         class="i"
+         transform="translate(514.56 281.17)"
+         id="text4411">P<tspan
+   class="c"
+   x="13.73"
+   y="0"
+   id="tspan4409">od</tspan>
+</text>
+      <g
+         id="g4507">
+        <g
+           id="g4443">
+          <g
+             id="g4421">
+            <g
+               id="g4417">
+              <text
+                 class="j"
+                 transform="translate(526.94 323.06)"
+                 id="text4413">C</text>
+              <text
+                 class="j"
+                 transform="translate(541.59 330.61) scale(0.58)"
+                 id="text4415">3</text>
+            </g>
+            <rect
+               class="h"
+               x="520.66"
+               y="298.74"
+               width="34.46"
+               height="34.46"
+               id="rect4419" />
+          </g>
+          <g
+             id="g4431">
+            <g
+               id="g4427">
+              <text
+                 class="j"
+                 transform="translate(473.67 323.06)"
+                 id="text4423">C</text>
+              <text
+                 class="j"
+                 transform="translate(488.32 330.61) scale(0.58)"
+                 id="text4425">2</text>
+            </g>
+            <rect
+               class="h"
+               x="467.3"
+               y="298.74"
+               width="34.46"
+               height="34.46"
+               id="rect4429" />
+          </g>
+          <g
+             id="g4441">
+            <g
+               id="g4437">
+              <text
+                 class="j"
+                 transform="translate(421.97 323.06)"
+                 id="text4433">C</text>
+              <text
+                 class="j"
+                 transform="translate(436.62 330.61) scale(0.58)"
+                 id="text4435">1</text>
+            </g>
+            <rect
+               class="h"
+               x="413.95"
+               y="298.74"
+               width="34.46"
+               height="34.46"
+               id="rect4439" />
+          </g>
+        </g>
+        <g
+           id="g4481">
+          <g
+             id="g4461">
+            <g
+               id="g4453">
+              <ellipse
+                 class="h"
+                 cx="448.97"
+                 cy="396.87"
+                 rx="25"
+                 ry="11.82"
+                 id="ellipse4445" />
+              <path
+                 class="h"
+                 d="M712.19,540.85c0,6.53-11.19,11.82-25,11.82s-25-5.29-25-11.82"
+                 transform="translate(-238.22 -103.12)"
+                 id="path4447" />
+              <line
+                 class="h"
+                 x1="423.97"
+                 y1="437.73"
+                 x2="423.97"
+                 y2="396.87"
+                 id="line4449" />
+              <line
+                 class="h"
+                 x1="473.97"
+                 y1="437.73"
+                 x2="473.97"
+                 y2="396.87"
+                 id="line4451" />
+            </g>
+            <g
+               id="g4459">
+              <text
+                 class="j"
+                 transform="translate(440.65 433.68)"
+                 id="text4455">V</text>
+              <text
+                 class="j"
+                 transform="translate(454.23 441.23) scale(0.58)"
+                 id="text4457">1</text>
+            </g>
+          </g>
+          <g
+             id="g4479">
+            <g
+               id="g4467">
+              <text
+                 class="j"
+                 transform="translate(509.77 433.68)"
+                 id="text4463">V</text>
+              <text
+                 class="j"
+                 transform="translate(523.35 441.23) scale(0.58)"
+                 id="text4465">2</text>
+            </g>
+            <g
+               id="g4477">
+              <ellipse
+                 class="h"
+                 cx="520.1"
+                 cy="396.87"
+                 rx="25"
+                 ry="11.82"
+                 id="ellipse4469" />
+              <path
+                 class="h"
+                 d="M783.32,540.85c0,6.53-11.19,11.82-25,11.82s-25-5.29-25-11.82"
+                 transform="translate(-238.22 -103.12)"
+                 id="path4471" />
+              <line
+                 class="h"
+                 x1="495.1"
+                 y1="437.73"
+                 x2="495.1"
+                 y2="396.87"
+                 id="line4473" />
+              <line
+                 class="h"
+                 x1="545.1"
+                 y1="437.73"
+                 x2="545.1"
+                 y2="396.87"
+                 id="line4475" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g4487">
+          <line
+             class="h"
+             x1="431.18"
+             y1="333.2"
+             x2="437.56"
+             y2="373.64"
+             id="line4483" />
+          <path
+             class="k"
+             d="M675.39,474.24l4.56-3.86.14.15-2,8.74-.53,8.9-3.25-8.3-4.57-7.71.06-.19Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4485" />
+        </g>
+        <g
+           id="g4493">
+          <line
+             class="h"
+             x1="484.53"
+             y1="333.2"
+             x2="466.92"
+             y2="376.25"
+             id="line4489" />
+          <path
+             class="k"
+             d="M706.11,477l5.9-.94,0,.21-6.21,6.45-5.07,7.33,1.52-8.78.09-9,.15-.13Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4491" />
+        </g>
+        <g
+           id="g4499">
+          <line
+             class="h"
+             x1="484.53"
+             y1="333.2"
+             x2="503.18"
+             y2="375.99"
+             id="line4495" />
+          <path
+             class="k"
+             d="M740.39,476.77l3.44-4.89.18.11.29,9L746,489.7l-5.23-7.21-6.36-6.31V476Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4497" />
+        </g>
+        <g
+           id="g4505">
+          <line
+             class="h"
+             x1="537.89"
+             y1="333.2"
+             x2="532.51"
+             y2="374.78"
+             id="line4501" />
+          <path
+             class="k"
+             d="M771.06,475.37l5.46-2.42.09.19L772.26,481l-3,8.39-.78-8.88-2.21-8.68.11-.16Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4503" />
+        </g>
+      </g>
+      <g
+         id="g4531">
+        <g
+           id="g4517">
+          <text
+             class="l"
+             transform="translate(580.09 375.78)"
+             id="text4513">
+            <tspan
+               class="g"
+               id="tspan4509">v</tspan>
+            <tspan
+               x="6.93"
+               y="0"
+               id="tspan4511">ersion = 1.0</tspan>
+          </text>
+          <path
+             class="h"
+             d="M903.25,487.13h-91V463.19h91c.68.41,11,12,11,12S904,486.67,903.25,487.13Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4515" />
+        </g>
+        <g
+           id="g4523">
+          <text
+             class="l"
+             transform="translate(580.09 407.22)"
+             id="text4519">type = FE</text>
+          <path
+             class="h"
+             d="M903.25,518.57h-91V494.63h91c.68.41,11,12,11,12S904,518.11,903.25,518.57Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4521" />
+        </g>
+        <g
+           id="g4529">
+          <text
+             class="l"
+             transform="translate(580.09 438.66)"
+             id="text4525">app = hello</text>
+          <path
+             class="h"
+             d="M903.25,550h-91V526.07h91c.68.41,11,12,11,12S904,549.55,903.25,550Z"
+             transform="translate(-238.22 -103.12)"
+             id="path4527" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g4573">
+    <rect
+       class="a"
+       x="0.71"
+       y="85.56"
+       width="291.4"
+       height="291.4"
+       id="rect4537" />
+    <text
+       class="d"
+       transform="translate(87.27 121.14)"
+       id="text4539"
+       style="-inkscape-font-specification:'Coda-Regular, Coda, Normal';font-family:Coda-Regular, Coda;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:22.68000031px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+      <tspan
+         sodipodi:role="line"
+         id="tspan4625">Controller</tspan>
+    </text>
+    <g
+       id="g4551">
+      <text
+         class="m"
+         transform="translate(34.16 167.66)"
+         id="text4549">Replicas: <tspan
+   class="n"
+   x="97.98"
+   y="0"
+   id="tspan4545">1</tspan>
+<tspan
+   x="0"
+   y="27.21"
+   id="tspan4547">Selector: type=FE</tspan>
+</text>
+    </g>
+    <g
+       id="g4565">
+      <text
+         class="f"
+         transform="translate(184.19 340.68)"
+         id="text4557">
+        <tspan
+           class="o"
+           id="tspan4553">P</tspan>
+        <tspan
+           x="8.58"
+           y="0"
+           id="tspan4555">od Tmpl</tspan>
+      </text>
+      <g
+         id="g4563">
+        <path
+           class="a"
+           d="M499.18,455H403.94V334.38h60.9l34.34,33.36S499.18,417.59,499.18,455Z"
+           transform="translate(-238.22 -103.12)"
+           id="path4559" />
+        <polyline
+           class="a"
+           points="260.96 265.12 226.03 265.12 226.03 231.26"
+           id="polyline4561" />
+      </g>
+    </g>
+    <g
+       id="g4571">
+      <path
+         class="e"
+         d="M317.37,444a38.24,38.24,0,0,1-18-73.95l5.34,15.28a22,22,0,1,0,28.08,13.53,20.32,20.32,0,0,0-7.43-9.84l9.52-13.09a36.71,36.71,0,0,1,13.19,17.59,38.23,38.23,0,0,1-23.47,48.71A38.65,38.65,0,0,1,317.37,444Z"
+         transform="translate(-238.22 -103.12)"
+         id="path4567" />
+      <polygon
+         class="e"
+         points="88.51 297.81 71.36 270.47 103.62 269.28 88.51 297.81"
+         id="polygon4569" />
+    </g>
+  </g>
+  <g
+     id="g4611">
+    <g
+       id="g4581">
+      <line
+         class="a"
+         x1="292.11"
+         y1="231.26"
+         x2="293.53"
+         y2="231.26"
+         id="line4575" />
+      <line
+         class="p"
+         x1="296.3"
+         y1="231.26"
+         x2="322.64"
+         y2="231.26"
+         id="line4577" />
+      <line
+         class="a"
+         x1="324.03"
+         y1="231.26"
+         x2="325.44"
+         y2="231.26"
+         id="line4579" />
+    </g>
+    <g
+       id="g4589">
+      <line
+         class="a"
+         x1="325.44"
+         y1="106.9"
+         x2="325.44"
+         y2="108.31"
+         id="line4583" />
+      <line
+         class="q"
+         x1="325.44"
+         y1="111.14"
+         x2="325.44"
+         y2="352.8"
+         id="line4585" />
+      <line
+         class="a"
+         x1="325.44"
+         y1="354.22"
+         x2="325.44"
+         y2="355.63"
+         id="line4587" />
+    </g>
+    <g
+       id="g4599">
+      <line
+         class="a"
+         x1="325.44"
+         y1="355.63"
+         x2="326.86"
+         y2="355.63"
+         id="line4591" />
+      <line
+         class="r"
+         x1="329.54"
+         y1="355.63"
+         x2="371.13"
+         y2="355.63"
+         id="line4593" />
+      <line
+         class="a"
+         x1="372.47"
+         y1="355.63"
+         x2="373.89"
+         y2="355.63"
+         id="line4595" />
+      <path
+         class="e"
+         d="M609.57,458.75l-3.11-5.11.17-.12,8.33,3.31,8.7,1.91-8.7,1.91L606.63,464l-.17-.09Z"
+         transform="translate(-238.22 -103.12)"
+         id="path4597" />
+    </g>
+    <g
+       id="g4609">
+      <line
+         class="a"
+         x1="325.44"
+         y1="106.9"
+         x2="326.86"
+         y2="106.9"
+         id="line4601" />
+      <line
+         class="r"
+         x1="329.54"
+         y1="106.9"
+         x2="371.13"
+         y2="106.9"
+         id="line4603" />
+      <line
+         class="a"
+         x1="372.47"
+         y1="106.9"
+         x2="373.89"
+         y2="106.9"
+         id="line4605" />
+      <path
+         class="e"
+         d="M609.57,210l-3.11-5.11.17-.12L615,208.1l8.7,1.91-8.7,1.91-8.33,3.31-.17-.09Z"
+         transform="translate(-238.22 -103.12)"
+         id="path4607" />
+    </g>
+  </g>
+  <g
+     id="g4617">
+    <path
+       class="s"
+       d="M642.08,367.49,903.25,550Z"
+       transform="translate(-238.22 -103.12)"
+       id="path4613" />
+    <path
+       class="s"
+       d="M903.25,367.49,642.08,550Z"
+       transform="translate(-238.22 -103.12)"
+       id="path4615" />
+  </g>
+</svg>
